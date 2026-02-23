@@ -72,13 +72,13 @@ The project includes a live performance dashboard featuring:
 
 ## Team
 
-- Alexandar Vassilev (@alex-is-busy-coding)
+- [Alexandar Vassilev](https://github.com/alex-is-busy-coding)
 
-- Soyoon Park (@soyoon-cu)
+- [Soyoon Park](https://github.com/soyoon-cu)
 
-- Hsuan-Ting Lin (@Hsuan-Ting)
+- [Hsuan-Ting Lin](https://github.com/Hsuan-Ting)
 
-- Rupeet Kaur (@RupeetK)
+- [Rupeet Kaur](https://github.com/RupeetK)
 
 ## References
 
