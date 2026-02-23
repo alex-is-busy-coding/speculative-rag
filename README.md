@@ -80,6 +80,10 @@ The project includes a live performance dashboard featuring:
 
 - [Rupeet Kaur](https://github.com/RupeetK)
 
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
 ## References
 
 - Wang, Z., et al. "SPECULATIVE RAG: ENHANCING RETRIEVAL AUGMENTED GENERATION THROUGH DRAFTING." ICLR 2025.
