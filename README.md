@@ -58,6 +58,13 @@ Evaluated on knowledge-intensive datasets such as TriviaQA or PubHealth. Metrics
 
 - **CRAG-Inspired (Filter-then-Generate):** Lightweight filtering/reranking of retrieved chunks followed by generation with shorter context.
 
+## Code Instruction
+
+### Setup
+Ensure `uv` is installed in your environment. <br>
+After cloning the Git repo, run: <br>
+`uv sync`
+
 ## Demo Dashboard
 
 The project includes a live performance dashboard featuring:
