@@ -126,7 +126,7 @@ Edit `.env`:
 ```dotenv
 GCP_PROJECT_ID=your-project-id        # gcloud config get project
 GCP_REGION=us-central1
-PROJECT_NAME=triviaqa-rag
+PROJECT_NAME=standard-rag
 GCS_BUCKET=your-bucket-name           # set after make infra-apply (Step 4)
 HF_TOKEN=hf_xxxx                      # huggingface.co → Settings → Access Tokens (Read scope)
 ```
